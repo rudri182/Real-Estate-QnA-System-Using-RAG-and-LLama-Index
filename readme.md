@@ -10,4 +10,4 @@
 
 - To run the system using API, run the below command:
 
-`uvicorn main:app --reload`
+    `uvicorn main:app --reload`
