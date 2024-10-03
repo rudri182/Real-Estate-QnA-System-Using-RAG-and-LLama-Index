@@ -4,7 +4,7 @@
 
     `python3 -m venv env_name`
 
-- Activate the virtual environment and then run the below command to install the dependencies
+- Activate the virtual environment and then run the below command to install the dependencies:
 
     `pip install -r requirements.txt`
 
