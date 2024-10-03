@@ -1,6 +1,6 @@
 # Real-Estate-QnA-System-Using-RAG-and-LLama-Index
 
-- Create the virtual environment by following command:
+- Create the virtual environment by following the command:
 
     `python3 -m venv env_name`
 
