@@ -1,4 +1,4 @@
-# Real-Estate-QnA-System-Using-RAG-and-LLama-Index
+# Steps to run Real-Estate-QnA-System-Using-RAG-and-LLama-Index
 
 - Create the virtual environment by following the command:
 
